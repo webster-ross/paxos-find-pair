@@ -1,7 +1,6 @@
 {
   "name": "find-pair",
   "version": "1.0.0",
-  "main": "find-pair.js",
   "preferGlobal": true,
   "bin": {
     "find-pair": "find-pair.js"
